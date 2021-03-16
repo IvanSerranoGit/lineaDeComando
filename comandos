@@ -1,0 +1,35 @@
+Los comandos constan de:
+
+- Nombre de un programa
+- Parametros
+- Modificadores
+
+Ejemplo:
+	comando -flag1 -flag2 arg1 arg2
+
+ 
+date - muestra la fecha de hoy
+echo - muestra mensaje en pantalla
+	echo "Ivan"
+man - nos muestra inforamacion sobre los comandos
+	man date
+
+Utilidades de CLI
+
+- Comodines
+- Combinaciones de taclas
+- Sustitución de comandos 
+
+Ejemplo:
+	ma + TAB nos muestra todos los comandos que 
+	tenemos con estras dos primeras letras
+
+	flecha hacia arriba o hacia abajo podemos 
+	ver los comandos que ya hemos utilizado
+
+	history - Podemos ver todos los comandos que 
+	hemos usado 
+		!244 - signo de admiracion mas numero de comando
+			ejecuta comando seleccionado
+	
+	
